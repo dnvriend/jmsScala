@@ -1,5 +1,7 @@
 name := "jms-scala"
 
+organization := "com.github.dnvriend"
+
 version := "0.82-SNAPSHOT"
 
 scalaVersion := "2.11.8"
